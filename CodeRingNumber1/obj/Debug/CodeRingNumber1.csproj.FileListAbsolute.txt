@@ -1,0 +1,12 @@
+D:\C# Programs\Personal\CodeRingNumber1\CodeRingNumber1\bin\Debug\CodeRingNumber1.exe.config
+D:\C# Programs\Personal\CodeRingNumber1\CodeRingNumber1\bin\Debug\CodeRingNumber1.exe
+D:\C# Programs\Personal\CodeRingNumber1\CodeRingNumber1\bin\Debug\CodeRingNumber1.pdb
+D:\C# Programs\Personal\CodeRingNumber1\CodeRingNumber1\obj\Debug\CodeRingNumber1.csprojResolveAssemblyReference.cache
+D:\C# Programs\Personal\CodeRingNumber1\CodeRingNumber1\obj\Debug\CodeRingNumber1.exe
+D:\C# Programs\Personal\CodeRingNumber1\CodeRingNumber1\obj\Debug\CodeRingNumber1.pdb
+C:\Programming\C# Programs\Personal\CodeRingNumber1\CodeRingNumber1\bin\Debug\CodeRingNumber1.exe.config
+C:\Programming\C# Programs\Personal\CodeRingNumber1\CodeRingNumber1\obj\Debug\CodeRingNumber1.exe
+C:\Programming\C# Programs\Personal\CodeRingNumber1\CodeRingNumber1\obj\Debug\CodeRingNumber1.pdb
+C:\Programming\C# Programs\Personal\CodeRingNumber1\CodeRingNumber1\bin\Debug\CodeRingNumber1.exe
+C:\Programming\C# Programs\Personal\CodeRingNumber1\CodeRingNumber1\bin\Debug\CodeRingNumber1.pdb
+C:\Programming\C# Programs\Personal\CodeRingNumber1\CodeRingNumber1\obj\Debug\CodeRingNumber1.csprojResolveAssemblyReference.cache
